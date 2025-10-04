@@ -5,7 +5,7 @@ public class Charger extends DodgeCar {
 
     @Override
     protected double getModelBias() {
-        return +0.2; // Charger slightly slower on average
+        return +0.2; // Slightly slower
     }
 
     @Override
